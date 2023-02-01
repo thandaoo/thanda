@@ -1,6 +1,6 @@
 {
-  "name": "http://thandaoo.github.io/portfolio",
-  "homepage": "http://thandaoo.github.io/portfolio",
+  "name": "thandaPortfolio",
+  "homepage": "http://thandaoo.github.io/thanda",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
