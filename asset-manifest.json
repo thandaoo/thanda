@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/thanda/static/css/main.a2ee53a6.css",
+    "main.css": "/thanda/static/css/main.1de3c56f.css",
     "main.js": "/thanda/static/js/main.8ded79c6.js",
     "static/media/me.gif": "/thanda/static/media/me.22bc74df0afcb8a8dad9.gif",
     "static/media/ThandaOoCV.pdf": "/thanda/static/media/ThandaOoCV.96586017a66d5f002c07.pdf",
     "static/media/me.png": "/thanda/static/media/me.3fa2037ca8ad1d989d11.png",
     "index.html": "/thanda/index.html",
-    "main.a2ee53a6.css.map": "/thanda/static/css/main.a2ee53a6.css.map",
+    "main.1de3c56f.css.map": "/thanda/static/css/main.1de3c56f.css.map",
     "main.8ded79c6.js.map": "/thanda/static/js/main.8ded79c6.js.map"
   },
   "entrypoints": [
-    "static/css/main.a2ee53a6.css",
+    "static/css/main.1de3c56f.css",
     "static/js/main.8ded79c6.js"
   ]
 }
